@@ -1,5 +1,5 @@
 737900db5640bd6059869ee00029fc4b *ChangeLog
-44aeb39aa17ee3676349528ede0d0fef *DESCRIPTION
+bf3084c84530291be43e4af9a0cbd4e6 *DESCRIPTION
 4e6e01143b7060121875f8eee364d071 *NAMESPACE
 6c5ee5a70ad5fb03da7d1bab48c67789 *R/Reformat23.R
 329ca4d0983cb6ace64610307b856b9b *R/Reformat32.R
@@ -16,5 +16,5 @@ f0d77c8241ec6c71e04df293384fee60 *man/Reformat23.Rd
 6f39494cffccd0508368f06d16db4d9f *man/TangleInference.Rd
 66643844edb9dcf2b3711d74191b100c *man/TangleInferenceGauss.Rd
 e15910ebe7e655d4c6401b633785e3fe *man/gen.Rd
-932842e85fb7f46fdbeaee3abdc453b0 *src/tangle.f
+b143818b235e6c27f1e98ca0703cba06 *src/tangle.f
 aaa9beb51ac0ce956e26f0c774e83601 *src/wrap.c
