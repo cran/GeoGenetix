@@ -1,0 +1,9 @@
+useDynLib(GeoGenetix)
+import(parallel)
+
+# Export all names
+exportPattern(".")
+
+
+
+import(RandomFields)
